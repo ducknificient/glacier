@@ -1,0 +1,112 @@
+-- title, price, genre, developer, publisher, year, summary, rating, discount
+-- title, summary, genre, year, developer, publisher, rating, price, discount 
+
+21
+-=-Fallout 4
+-=-Bethesda Game Studios, the award-winning creators of Fallout 3 and The Elder Scrolls V: Skyrim, welcome you to the world of Fallout 4 – their most ambitious game ever, and the next generation of open-world gaming. 
+-=-Open World Post-apocalyptic Exploration RPG 
+-=-10 Nov, 2015
+-=-Bethesda Game Studios	
+-=-Bethesda Softworks	
+-=-7.0
+-=-400000
+-=-50
+
+22
+-=-Fallout 4 VR
+-=-Fallout 4, the legendary post-apocalyptic adventure from Bethesda Game Studios and winner of more than 200 ‘Best Of’ awards, including the DICE and BAFTA Game of the Year, comes in its entirety to VR. 
+-=-VR Post-apocalyptic Open World RPG Violent
+-=-12 Dec, 2017
+-=-Bethesda Game Studios	
+-=-Bethesda Softworks	
+-=-7.1
+-=-799000
+-=-0
+
+23
+-=-Fallout 3: Game of the Year Edition
+-=-Prepare for the Future™ With Fallout 3: Game of the Year Edition, experience the most acclaimed game of 2008 like never before. Create a character of your choosing and descend into an awe-inspiring, post-apocalyptic world where every minute is a fight for survival. 
+-=-Open World RPG Post-apocalyptic Singleplayer
+-=-13 Oct, 2009
+-=-Bethesda Game Studios	
+-=-Bethesda Softworks	
+-=-7.9
+-=-135999
+-=-75
+
+24
+-=-Fallout: New Vega
+-=-Welcome to Vegas. New Vegas. Enjoy your stay!
+-=-Open World RPG Post-apocalyptic Singleplayer
+-=-22 Oct, 2010
+-=-Obsidian Entertainment
+-=-Bethesda Softworks
+-=-9.5
+-=-89999
+-=-50
+
+25
+-=-Far Cry® 5
+-=-Welcome to Hope County, Montana, home to a fanatical doomsday cult known as Eden’s Gate. Stand up to cult leader Joseph Seed & his siblings, the Heralds, to spark the fires of resistance & liberate the besieged community. 
+-=-Open World Action FPS Co-op Multiplayer +
+-=-27 Mar, 2018
+-=-Ubisoft Montreal, Red Storm, Ubisoft Shanghai, Ubisoft Toronto, Ubisoft Kiev	
+-=-Ubisoft	
+-=-6.7
+-=-689000
+-=-50
+
+26
+-=-Far Cry® Primal
+-=-The award-winning Far Cry franchise returns with its innovative open world gameplay, bringing together massive beasts, breathtaking environments, and unpredictable savage encounters. Welcome to the Stone Age, a time of danger and adventure. 
+-=-Open World Survival Action Adventure FPS +
+-=-1 Mar, 2016
+-=-Ubisoft	
+-=-Ubisoft	
+-=-7.6
+-=-575000
+-=-0
+
+27
+-=-Far Cry® 4
+-=-Hidden in the towering Himalayas lies Kyrat, a country steeped in tradition and violence. You are Ajay Ghale. Traveling to Kyrat to fulfill your mother’s dying wish, you find yourself caught up in a civil war to overthrow the oppressive regime of dictator Pagan Min. 
+-=-Open World Action FPS Adventure Co-op +
+-=-18 Nov, 2014
+-=-Ubisoft Montreal, Red Storm, Shanghai, Toronto, Kiev	
+-=-Ubisoft	
+-=-7.7
+-=-345000
+-=-50
+
+28
+-=-Far Cry 3
+-=-Discover the dark secrets of a lawless island ruled by violence and take the fight to the enemy as you try to escape. You’ll need more than luck to escape alive! 
+-=-Open World FPS Action Adventure Shooter
+-=-29 Nov, 2012
+-=-Ubisoft Montreal, Massive Entertainment, and Ubisoft Shanghai	
+-=-Ubisoft	
+-=-8.8
+-=-229000
+-=-0
+
+29
+-=-Far Cry 3 - Blood Dragon
+-=-Far Cry® 3: Blood Dragon is THE Kick-Ass Cyber Shooter.Welcome to an 80’s vision of the future. The year is 2007 and you are Sargent Rex Colt, a Mark IV Cyber Commando. Your mission: get the girl, kill the baddies, and save the world. 
+-=-FPS 1980s Comedy Open World Action 
+-=-2 May, 2013
+-=-Ubisoft Montreal	
+-=-Ubisoft	
+-=-8.8
+-=-170000
+-=-75
+
+30
+-=-Far Cry® 2: Fortune's Edition
+-=-You are a gun for hire, trapped in a war-torn African state, stricken with malaria and forced to make deals with corrupt warlords on both sides of the conflict in order to make this country your home. You must identify and exploit your enemies' weaknesses, neutralizing their superior numbers and firepower with
+-=-Open World FPS Action Shooter Singleplayer
+-=-22 Oct, 2008
+-=-Ubisoft Montreal	
+-=-Ubisoft	
+-=-7.4
+-=-115000
+-=-80

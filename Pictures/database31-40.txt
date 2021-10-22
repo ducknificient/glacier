@@ -1,0 +1,112 @@
+-- title, price, genre, developer, publisher, year, summary, rating, discount
+-- title, summary, genre, year, developer, publisher, rating, price, discount 
+
+31
+-=-Cultist Simulator
+-=-Seize forbidden treasures. Summon alien gods. Feed on your disciples.Cultist Simulator is a game of apocalypse and yearning from Alexis Kennedy, creator of Fallen London and Sunless Sea. Play as a seeker after unholy mysteries, in a 1920s-themed setting of hidden gods and secret histories. 
+-=-Card Game Indie Lovecraftian Simulation RPG +
+-=-31 May, 2018
+-=-Weather Factory	
+-=-Humble Bundle
+-=-7.7
+-=-108999
+-=-25
+
+32
+-=-Thief Simulator
+-=-Become the best thief. Gather intel, steal things and sell them to buy hi-tech equipment. Do everything that a real thief does. 
+-=-Simulation Stealth Crime Adventure Action
+-=-9 Nov, 2018
+-=-Noble Muffins	
+-=-PlayWay S.A.	
+-=-7.8
+-=-108999
+-=-0
+
+33
+-=-Artifact
+-=-A collaboration between legendary game designer Richard Garfield and Valve, Artifact offers the deepest gameplay and the highest-fidelity experience ever seen in a trading card game. 
+-=-Card Game Trading Card Game Strategy Tactical
+-=-29 Nov, 2018
+-=-Valve	
+-=-Valve
+-=-5.2
+-=-299999 
+-=-0
+
+34
+-=-Thief
+-=-Garrett, the Master Thief, steps out of the shadows into the City. In this treacherous place, where the Baron’s Watch spreads a rising tide of fear and oppression, his skills are the only things he can trust. Even the most cautious citizens and their best-guarded possessions are not safe from his reach.
+-=-Stealth Action Adventure First-Person Dark
+-=-24 Feb, 2014
+-=-Eidos-Montréal, Feral Interactive (Mac)	
+-=-Square Enix, Feral Interactive (Mac)	
+-=-v7.0
+-=-214 999
+-=-50
+
+35
+-=-PC Building Simulator
+-=-Build and grow your very own computer repair enterprise as you learn to diagnose, fix and build PCs. With real-world licensed components and comprehensive hardware and software simulation, you can plan and bring your ultimate PC to life. 
+-=-Early Access Simulation Building Indie Casual 
+-=-27 Mar, 2018
+-=-Claudiu Kiss, The Irregular Corporation	
+-=-The Irregular Corporation	
+-=-8.9
+-=-108999
+-=-25
+
+36
+-=-Heroes of Might & Magic V
+-=-Witness the amazing evolution of the genre-defining strategy game as it becomes a next-generation phenomenon, melding classic deep fantasy with next-generation visuals and gameplay. In the renowned Might & Magic universe, demon swarms spread chaos over the land in a relentless assault. 
+-=-Strategy Turn-Based Strategy Fantasy Tactical
+-=-23 May, 2006
+-=-Nival	
+-=-Ubisoft	
+-=-8.7
+-=-115 000 
+-=-90
+
+37
+-=-Might and Magic: Heroes VII – Trial by Fire
+-=-Five years after the epic events of Might & Magic Heroes VII, lead the new Fortress faction to define the destiny of the Dwarves and shed light on some of the darkest chapters of their history. 
+-=-Strategy RPG Turn-Based Turn-Based Strategy 
+-=-4 Aug, 2016
+-=-Limbic Entertainment	
+-=-Ubisoft	
+-=-5.1
+-=-345 000
+-=-66
+
+38
+-=-Plant Tycoon
+-=-Plant Tycoon is a gardening sim game where you nurture plants and experiment with increasingly rare and valuable species. The object is to breed and cross breed plants until you find the 6 Magic Plants of Isola and solve the genetic puzzle. You start with a couple of dollars, a handful of seeds, some soil and 
+-=-Casual Simulation Management 
+-=-27 Sep, 2007
+-=-Last Day of Work	
+-=-Last Day of Work	
+-=-8.5
+-=-89999
+-=-0
+
+39
+-=-Insaniquarium Deluxe
+-=-""
+-=-Casual Simulation Singleplayer Classic Aliens 
+-=-30 Aug, 2006
+-=-PopCap Games, Inc.	
+-=-PopCap Games, Inc.	
+-=-9.5
+-=-45999 
+-=-80
+
+40
+-=-Plants vs. Zombies GOTY Edition
+-=-Zombies are invading your home, and the only defense is your arsenal of plants! Armed with an alien nursery-worth of zombie-zapping plants like peashooters and cherry bombs, you'll need to think fast and plant faster to stop dozens of types of zombies dead in their tracks. 
+-=-Tower Defense Zombies Strategy Casual 2D +
+-=-6 May, 2009
+-=-PopCap Games, Inc.	
+-=-PopCap Games, Inc.	
+-=-9.7
+-=-45999
+-=-80

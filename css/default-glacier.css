@@ -1,0 +1,38 @@
+.gl-navbar
+{
+	background-color:#011A38;
+	color:#BCBABE;	
+}
+
+.gl-footer
+{
+	background-color:#011A38;
+	color:#BCBABE;
+}
+
+.gl-f-h
+{
+	color:#DCDCDC;	
+}
+
+a.gl-f-link:link
+{
+	color:#DCDCDC;
+}
+
+a.gl-f-link:hover
+{
+	color:white;
+}
+
+.glacier-bcc-background
+{
+	background-color:darkgrey;
+}
+
+.glacier-minimum {
+    clear: both;
+    position: relative;    
+    margin-top: 10%;
+}
+

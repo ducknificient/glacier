@@ -1,0 +1,116 @@
+-- title, price, genre, developer, publisher, year, summary, rating, discount
+-- title, summary, genre, year, developer, publisher, rating, price, discount 
+
+-- Horror Survival Horror Multiplayer Co-op Gore
+
+-=-
+
+11
+-=-Dead by Daylight
+-=-Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed. 
+-=-Horror Survival Horror Multiplayer Co-op Gore
+-=-14 Jun, 2016
+-=-Behaviour Digital Inc.	
+-=-Behaviour Digital Inc.	
+-=-7.7
+-=-135999 
+-=-66
+
+12
+-=-Frostpunk
+-=-Frostpunk is the first society survival game. As the ruler of the last city on Earth, it is your duty to manage both its citizens and its infrastructure. What decisions will you make to ensure your society's survival? What will you do when pushed to breaking point? Who will you become in the process? 
+-=-Survival City Builder Strategy Building Dark
+-=-24 Apr, 2018
+-=-11 bit studios
+-=-11 bit studios	
+-=-8.7
+-=-139999
+-=-0
+
+13
+-=-Metro Exodus
+-=-Flee the shattered ruins of the Moscow Metro and embark on an epic, continent-spanning journey across the post-apocalyptic Russian wilderness. Explore vast, non-linear levels, lose yourself in an immersive, sandbox survival experience, and follow a thrilling story-line that spans an entire year in the 
+-=-Post-apocalyptic Atmospheric FPS Story Rich
+-=-15th of February 2019
+-=-4A Games	
+-=-Deep Silver
+-=-0
+-=-680000 
+-=-0
+
+14
+-=-Rust
+-=-The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive. 
+-=-Survival Crafting Multiplayer Open World PvP
+-=-9 Feb, 2018
+-=-Facepunch Studios	
+-=-Facepunch Studios	
+-=-8.0
+-=-159999
+-=-50
+
+15
+-=-DARK SOULS™ III
+-=-Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness! 
+-=-Dark Fantasy Difficult RPG Atmospheric PvP
+-=-12 Apr, 2016
+-=-FromSoftware, Inc.	
+-=-FromSoftware, Inc., BANDAI NAMCO Entertainment	
+-=-9.0
+-=-587000
+-=-75
+
+16
+-=-DARK SOULS™: REMASTERED
+-=-Then, there was fire. Re-experience the critically acclaimed, genre-defining game that started it all. Beautifully remastered, return to Lordran in stunning high-definition detail running at 60fps. 
+-=-Dark Fantasy Difficult Action Action RPG RPG
+-=-24 May, 2018
+-=-QLOC	
+-=-FromSoftware, Inc, BANDAI NAMCO En6.6
+-=-7.6
+-=-420000
+-=-0
+
+17
+-=-DARK SOULS™ II: Scholar of the First Sin
+-=-DARK SOULS™ II: Scholar of the First Sin brings the franchise’s renowned obscurity & gripping gameplay to a new level. Join the dark journey and experience overwhelming enemy encounters, diabolical hazards, and unrelenting challenge. 
+-=-RPG Dark Fantasy Difficult Action Action RPG +
+-=-2 Apr, 2015
+-=-FromSoftware, Inc	
+-=-BANDAI NAMCO Entertainment, FromSoftware, Inc	
+-=-86
+-=-340000
+-=-75
+
+18
+-=-The Elder Scrolls V: Skyrim Special Edition
+-=-Winner of more than 200 Game of the Year Awards, Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features like remastered art and effects, volumetric god rays, dynamic depth of field, screen-space
+-=-Open World RPG Adventure Singleplayer
+-=-28 Oct, 2016
+-=-Bethesda Game Studios	
+-=-Bethesda Softworks	
+-=-8.2
+-=-532000
+-=-0
+
+19
+-=-The Elder Scrolls V: Skyrim VR
+-=-A true, full-length open-world game for VR has arrived from Bethesda Game Studios. Skyrim VR reimagines the complete epic fantasy masterpiece with an unparalleled sense of scale, depth, and immersion. Skyrim VR also includes all official add-ons. 
+-=-RPG Open World VR Singleplayer Adventure +
+-=-3 Apr, 2018
+-=-Bethesda Game Studios	
+-=-Bethesda Softworks	
+-=-8.2
+-=-799000 
+-=-0
+
+20
+-=-The Elder Scrolls® Online
+-=-Join over 10 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. Battle, craft, steal, or explore, and combine different types of equipment and abilities to create your own style of play. No game subscription required. 
+-=-RPG Open World MMORPG Massively Multiplayer +
+-=-4 Apr, 2014
+-=-Zenimax Online Studios	
+-=-Bethesda Softworks	
+-=-7.6
+-=-266000
+-=-50

@@ -1,0 +1,129 @@
+-- title, price, genre, developer, publisher, year, summary, rating, discount
+-- title, summary, genre, year, developer, publisher, rating, price, discount 
+
+71
+Mafia 3
+It’s 1968 and after years of combat in Vietnam, Lincoln Clay knows this truth: family isn’t who you’re born with, it’s who you die for.
+Crime Open World Action Story Rich Violent
+6 Oct, 2016
+Hangar 13, Aspyr (Mac)	
+2K, Aspyr (Mac)	
+4.8
+400 000
+50
+
+72
+Arma 3
+Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single- and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC’s premier military game. Authentic, diverse, open - Arma 3 sends you to war.
+12 Sep, 2013
+Developer:
+Bohemia Interactive	
+Publisher:
+Bohemia Interactive	
+Popular user-defined tags for this product:
+Simulation Military Multiplayer Open World FPS +
+8.9
+499999
+0
+
+73
+The Witcher 3: Wild Hunt
+As war rages on throughout the Northern Realms, you take on the greatest contract of your life — tracking down the Child of Prophecy, a living weapon that can alter the shape of the world. 
+Open World RPG Story Rich Atmospheric +
+18 May, 2015
+CD PROJEKT RED	
+CD PROJEKT RED	
+9.7
+359 999
+75
+
+74
+No Man's Sky is a game about exploration and survival in an infinite procedurally generated universe.
+12 Aug, 2016
+Developer:
+Hello Games	
+Publisher:
+Hello Games	
+Popular user-defined tags for this product:
+Open World Space Exploration Sci-fi Survival +
+5.0
+249 999
+50
+
+75
+Depth
+4 Nov, 2014
+Developer:
+Digital Confectioners	
+Publisher:
+Digital Confectioners	
+Popular user-defined tags for this product:
+Action Multiplayer Gore Underwater Survival +
+8.8
+108 999 
+75
+
+76
+Subnautica
+Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more - all while trying to survive. 
+Rp 119 999 
+23 Jan, 2018
+Developer:
+Unknown Worlds Entertainment	
+Publisher:
+Unknown Worlds Entertainment	
+Popular user-defined tags for this product:
+Survival Open World Exploration Crafting Indie +
+
+77
+Don't Starve Together
+Don't Starve Together is the standalone multiplayer expansion of the uncompromising survival game Don't Starve.
+21 Apr, 2016
+Developer:
+Klei Entertainment	
+Publisher:
+Klei Entertainment	
+Popular user-defined tags for this product:
+Survival Multiplayer Co-op Open World Indie +
+9.6
+95999
+75
+
+78
+NieR:Automata™
+NieR: Automata tells the story of androids 2B, 9S and A2 and their battle to reclaim the machine-driven dystopia overrun by powerful machines. 
+17 Mar, 2017
+Developer:
+Square Enix	
+Publisher:
+Square Enix	
+Popular user-defined tags for this product:
+Great Soundtrack Story Rich Female Protagonist +
+8.4
+799 000
+50
+
+79
+GOD EATER 3
+Set in a post-apocalyptic setting, it’s up to your special team of God Eaters to take down god-like monsters devastating the world. With an epic story, unique characters, and all new God Arcs and Aragami, the latest evolution in ACTION is here! 
+Marvelous Inc.	
+Publisher:
+BANDAI NAMCO Entertainment	
+Popular user-defined tags for this product:
+Action Anime Co-op Hunting Hack and Slash +
+0
+675000
+0
+
+80
+GOD EATER 2 Rage Burst
+29 Aug, 2016
+Developer:
+BANDAI NAMCO Studio, SHIFT, QLOC	
+Publisher:
+BANDAI NAMCO Entertainment	
+Popular user-defined tags for this product:
+Anime Action RPG Character Customization +
+80
+460000
+75

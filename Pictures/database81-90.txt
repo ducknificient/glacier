@@ -1,0 +1,113 @@
+-=--- title, price, genre, developer, publisher, year, summary, rating, discount
+-=--- title, summary, genre, year, developer, publisher, rating, price, discount 
+-=-
+81
+-=-Dying Light
+-=-Dying Light is a first-person, action survival game set in a vast open world. Roam a city devastated by a mysterious epidemic, scavenging for supplies and crafting weapons to help defeat the hordes of flesh-hungry enemies the plague has created. 
+-=-Zombies Survival Open World Parkour Co-op 
+-=-26 Jan, 2015
+-=-Techland
+-=-Techland Publishing
+-=-9.2
+-=-268800
+-=-66
+-=-
+82
+-=-FOR HONOR™
+-=-Carve a path of destruction through an intense, believable battlefield in For Honor. 
+-=-Medieval Action Swordplay Multiplayer PvP
+-=-14 Feb, 2017
+-=-Ubisoft Montreal, Ubisoft Quebec, Ubisoft Toronto, Blue Byte
+-=-Ubisoft
+-=-5.4
+-=-170000
+-=-50
+-=-
+83
+-=-Prison Architect
+-=-Build and Manage A Maximum Security Prison. 
+-=-Simulation Building Management Strategy Indie
+-=-6 Oct, 2015
+-=-Introversion Software
+-=-Introversion Software
+-=-9.3
+-=-139999
+-=-33
+-=-
+84
+-=-Cities: Skylines
+-=-Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. 
+-=-City Builder Simulation Building Strategy Mod
+-=-10 Mar, 2015
+-=-Colossal Order Ltd.
+-=-Paradox Interactive
+-=-9.1
+-=-199999
+-=-75
+-=-
+85
+-=-Firewatch
+-=-Firewatch is a single-player first-person mystery set in the Wyoming wilderness, where your only emotional lifeline is the person on the other end of a handheld radio. 
+-=-Adventure Atmospheric Story Rich Mystery
+-=-10 Feb, 2016
+-=-Campo Santo
+-=-Panic, Campo Santo
+-=-8.5
+-=-108999
+-=-75
+-=-
+86
+-=-The Park
+-=-Set in a creepy amusement park hiding a dark and sinister secret, The Park is a first-person psychological horror experience focused on exploration and storytelling
+-=-Horror Psychological Horror Walking Simulator
+-=-27 Oct, 2015
+-=-Funcom
+-=-Funcom
+-=-6.9
+-=-108999
+-=-0
+-=-
+87
+-=-Raft
+-=-Raft throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks! 
+-=-Early Access Survival Crafting Multiplayer 
+-=-24 May, 2018
+-=-Redbeet Interactive
+-=-Axolot Games
+-=-7.8
+-=-135999
+-=-50
+-=-
+88
+-=-Garry’s Mod
+-=-Garry’s Mod is a physics sandbox. There aren’t any predefined aims or goals. We give you the tools and leave you to play. 
+-=-Sandbox Multiplayer Funny Moddable Building 
+-=-29 Nov, 2006
+-=-Facepunch Studios
+-=-Valve
+-=-9.5
+-=-89999
+-=-50
+-=-
+89
+-=-Stardew Valley
+-=-You’ve inherited your grandfather’s old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? 
+-=-RPG Simulation Pixel Graphics Agriculture 2D
+-=-27 Feb, 2016
+-=-ConcernedApe
+-=-ConcernedApe
+-=-9.6
+-=-115999
+-=-25
+-=-
+90
+-=-Overcooked! 2
+-=-Overcooked returns with a brand-new helping of chaotic cooking action! Journey back to the Onion Kingdom and assemble your team of chefs in classic couch co-op or online play for up to four players. Hold onto your aprons… it’s time to save the world again!
+-=-Multiplayer Online Co-Op Casual Indie Action 
+-=-7 Aug, 2018
+-=-Ghost Town Games Ltd., Team17 Digital Ltd
+-=-Team17 Digital Ltd
+-=-8.0
+-=-119999
+-=-25
+-=-

@@ -1,0 +1,111 @@
+-=--- title, price, genre, developer, publisher, year, summary, rating, discount
+-=--- title, summary, genre, year, developer, publisher, rating, price, discount 
+-=-
+91
+-=-Overcooked
+-=-Overcooked is a chaotic couch co-op cooking game for one to four players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out in a huff. 
+-=-Local Co-Op Local Multiplayer Multiplayer Co-op 
+-=-3 Aug, 2016
+-=-Ghost Town Games Ltd.
+-=-Team17 Digital Ltd
+-=-9.1
+-=-139999
+-=-33
+-=-
+92
+-=-FINAL FANTASY XV WINDOWS EDITION
+-=-Take the journey, now in ultimate quality. Boasting a wealth of bonus content and supporting ultra high-resolution graphical options and HDR 10, you can now enjoy the beautiful and carefully-crafted experience of FINAL FANTASY XV like never before. 
+-=-RPG Open World JRPG Fantasy Story Rich 
+-=-7 Mar, 2018
+-=-Square Enix
+-=-Square Enix
+-=-7.8
+-=-695000
+-=-50
+-=-
+93
+-=-DayZ
+-=-The post-soviet country of Chernarus is struck by an unknown virus, turning the majority population into frenzied infected. Fighting over resources has bred a hostile mentality among survivors, driving what’s left of humanity to collapse. You are one of the few immune to the virus - how far will you go to survive? 
+-=-Survival Zombies Open World Multiplayer PvP
+-=-14 Dec, 2018
+-=-Bohemia Interactive
+-=-Bohemia Interactive
+-=-6.1
+-=-550000
+-=-66
+-=-
+94
+-=-Sid Meier’s Civilization® VI
+-=-Civilization VI offers new ways to interact with your world, expand your empire across the map, advance your culture, and compete against history’s greatest leaders to build a civilization that will stand the test of time. Play as one of 20 historical leaders including Roosevelt (America) and Victoria (England). 
+-=-Strategy Turn-Based Strategy Historical 4X 
+-=-21 Oct, 2016
+-=-Firaxis Games, Aspyr (Mac), Aspyr (Linux)
+-=-2K, Aspyr (Mac), Aspyr (Linux)
+-=-6.8
+-=-600000
+-=-75
+-=-
+95
+-=-Sid Meier’s Civilization®: Beyond Earth™
+-=-Sid Meier’s Civilization: Beyond Earth is a new science-fiction-themed entry into the award winning Civilization series. As part of an expedition sent to find a home beyond Earth, lead your people into a new frontier, explore and colonize an alien planet and create a new civilization in space. 
+-=-Strategy Turn-Based Strategy Sci-fi Space
+-=-24 Oct, 2014
+-=-Firaxis Games, Aspyr (Mac), Aspyr (Linux)
+-=-2K, Aspyr (Mac), Aspyr (Linux)
+-=-5.3
+-=-413000
+-=-75
+-=-
+96
+-=-Sid Meier’s Civilization® V
+-=-Create, discover, and download new player-created maps, scenarios, interfaces, and more! 
+-=-Turn-Based Strategy Strategy Turn-Based 4X 
+-=-24 Sep, 2010
+-=-Firaxis Games, Aspyr (Mac), Aspyr (Linux)
+-=-2K, Aspyr (Mac), Aspyr (Linux)
+-=-9.5
+-=-199999
+-=-75
+97
+-=-Sid Meier’s Civilization® IV
+-=-With over 6 million units sold and unprecedented critical acclaim from fans and press around the world, Sid Meier’s Civilization is recognized as one of the greatest PC game franchises of all-time. Now, Sid Meier and Firaxis Games will take this incredibly fun and addictive game to new heights by adding new 
+-=-Strategy Turn-Based Strategy Turn-Based 4X 
+-=-25 Oct, 2005
+-=-Firaxis Games
+-=-2K
+-=-9.1
+-=-135999
+-=-90
+-=-
+98
+-=-Just Cause 4
+-=-Rogue agent Rico Rodriguez journeys to Solis, a huge South American world home of conflict, oppression and extreme weather conditions. Strap into your wingsuit, equip your fully customizable grappling hook, and get ready to bring the thunder! 
+-=-Action Open World Destruction Adventure
+-=-5 Dec, 2018
+-=-Avalanche Studios	
+-=-Square Enix
+-=-3.4
+-=-680000
+-=-34
+-=-
+99
+-=-Just Cause™ 3
+-=-With over 1000 km² of complete freedom from sky to seabed, Rico Rodriguez returns to unleash chaos in the most creative and explosive ways imaginable.
+-=-Open World Action Destruction Adventure
+-=-1 Dec, 2015
+-=-Avalanche Studios
+-=-Square Enix
+-=-7.3
+-=-389999
+-=-85
+-=-
+100
+-=-Just Cause 2
+-=-Dive into an adrenaline-fuelled free-roaming adventure with 400 square miles of rugged terrain and hundreds of weapons and vehicles. 
+-=-Open World Action Sandbox Third Person
+-=-23 Mar, 2010
+-=-Avalanche Studios
+-=-Square Enix
+-=-9.0
+-=-107299
+-=-90

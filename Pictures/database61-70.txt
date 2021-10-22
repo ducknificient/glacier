@@ -1,0 +1,113 @@
+-=--- title, price, genre, developer, publisher, year, summary, rating, discount
+-=--- title, summary, genre, year, developer, publisher, rating, price, discount 
+-=-
+61
+-=-Assassin’s Creed® Odyssey
+-=-Choose your fate in Assassin’s Creed® Odyssey. From outcast to living legend, embark on an odyssey to uncover the secrets of your past and change the fate of Ancient Greece. 
+-=-Open World Action RPG Singleplayer Stealth 
+-=-5 Oct, 2018
+-=-Ubisoft Quebec, Ubisoft Montreal, Ubisoft Bucharest, Ubisoft Singapore, Ubisoft Montpellier, Ubisoft Kiev, Ubisoft Shanghai	
+-=-Ubisoft	
+-=-8.3
+-=-689000
+-=-50
+-=-
+62
+-=-Assassin’s Creed® Origins
+-=-ASSASSIN’S CREED® ORIGINS IS A NEW BEGINNING *The Discovery Tour by Assassin’s Creed®: Ancient Egypt is available now as a free update!* Ancient Egypt, a land of majesty and intrigue, is disappearing in a ruthless fight for power.
+-=-Open World Assassin Action Parkour RPG 
+-=-27 Oct, 2017
+-=-Ubisoft Montreal	
+-=-Ubisoft	
+-=-8.3
+-=-689000
+-=-50
+-=-
+63
+-=-Assassin’s Creed® Chronicles: Russia
+-=-Join Nikolaï Orelov in his search for redemption as you journey through an iconic, propaganda art style Russia in 2.5D gameplay. • Survive the aftermath of October Revolution & travel accross Russia. • Experience the thrill of being a stealthy Assassin in an exclusive modern setting. 
+-=-Action Adventure Assassin 2.5D Stealth 
+-=-15 Feb, 2016
+-=-Climax Studios	
+-=-Ubisoft Entertainment	
+-=-6.2
+-=-115000
+-=-85
+64
+-=-Assassin’s Creed® Chronicles: India
+-=-Embody Arbaaz in his quest for retribution through a colourful depiction of Colonial India in 2.5D stealth gameplay. • Travel across an amazing 19th Century India and its legendary landmarks. • Experience the thrill of a stealthy assassin with a unique set of skills and weapons such as the double kill moves and the 
+-=-Action Adventure Assassin Stealth 2.5D 
+-=-12 Jan, 2016
+-=-Climax Studios	
+-=-Ubisoft Entertainment	
+-=-6.5
+-=-115000
+-=-85
+-=-
+65
+-=-Assassin’s Creed® Syndicate
+-=-London, 1868. In the heart of the Industrial Revolution, lead your underworld organization and grow your influence to fight those who exploit the less privileged in the name of... 
+-=-Assassin Open World Action Parkour Stealth 
+-=-Assassin Open World Action Parkour Stealth 
+-=-19 Nov, 2015
+-=-Ubisoft Quebec, in collaboration with Ubisoft Annecy, Bucharest, Kiev, Montreal, Montpellier, Shanghai, Singapore, Sofia, Toronto studios	
+-=-Ubisoft	
+-=-7.4
+-=-459000
+-=-50
+66
+-=-Assassin’s Creed® Chronicles: China
+-=-The first entry in the Assassin’s Creed Chronicles saga takes place in China, 1526, as the Ming dynasty starts to crumble. You embody Shao Jun, the last remaining Assassin of the Chinese Brotherhood, returning to her homeland with a vendetta. 
+-=-Assassin Action Female Protagonist Stealth 
+-=-21 Apr, 2015
+-=-Climax Studios	
+-=-Ubisoft Entertainment	
+-=-7.3
+-=-115000
+-=-85
+-=-
+67
+-=-Assassin’s Creed® Rogue
+-=-Introducing Assassin’s Creed® Rogue, the darkest chapter in the Assassin’s Creed franchise yet. As Shay, you will experience the slow transformation from Assassin to Assassin Hunter. Follow your own creed and set off on an extraordinary journey through New York City, the wild river valley, and far away to 
+-=-24 Mar, 2015
+-=-Ubisoft Sofia, Ubisoft Kiev	
+-=-Ubisoft	
+-=-Open World Assassin Action Parkour Stealth
+-=-8.0
+-=-229000
+-=-50
+-=-
+68
+-=-Assassin’s Creed® Unity
+-=-Assassin’s Creed® Unity tells the story of Arno, a young man who embarks upon an extraordinary journey to expose the true powers behind the French Revolution. In the brand new co-op mode, you and your friends will also be thrown in the middle of a ruthless struggle for the fate of a nation.
+-=-Open World Parkour Assassin Stealth Co-op
+-=-13 Nov, 2014
+-=-Ubisoft	
+-=-Ubisoft	
+-=-5.9
+-=-345000
+-=-50
+-=-
+69
+-=-Assassin’s Creed Freedom Cry
+-=-Play as Adewale, an ex-slave turned Assassin fighting for freedom with the help of his own Pirate crew. 
+-=-Action Adventure Assassin Open World RPG +
+-=-25 Feb, 2014
+-=-Ubisoft Montreal	
+-=-Ubisoft	
+-=-7.4
+-=-170000
+-=-66
+-=-
+70
+-=-Assassin’s Creed® Liberation HD
+-=-Introducing Assassin’s Creed® Liberation HD, the striking chapter of the pre-American Revolution Assassin’s Creed saga which arrives for the first time on HD consoles and PC. With improved gameplay, a deeper story, and HD graphics, Liberation is an immersive and full Assassin’s Creed experience.The
+-=-Action Open World Female Protagonist Stealth 
+-=-16 Jan, 2014
+-=-Ubisoft Sofia	
+-=-Ubisoft	
+-=-5.6
+-=-229000 
+-=-50
+-=-
+-=-

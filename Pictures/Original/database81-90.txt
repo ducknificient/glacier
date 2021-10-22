@@ -1,0 +1,139 @@
+-- title, price, genre, developer, publisher, year, summary, rating, discount
+-- title, summary, genre, year, developer, publisher, rating, price, discount 
+
+81
+Dying Light
+Dying Light is a first-person, action survival game set in a vast open world. Roam a city devastated by a mysterious epidemic, scavenging for supplies and crafting weapons to help defeat the hordes of flesh-hungry enemies the plague has created. 
+26 Jan, 2015
+Developer:
+Techland	
+Publisher:
+Techland Publishing	
+Popular user-defined tags for this product:
+Zombies Survival Open World Parkour Co-op +
+9.2
+268800
+66
+
+82
+FOR HONOR™
+Carve a path of destruction through an intense, believable battlefield in For Honor. 
+14 Feb, 2017
+Developer:
+Ubisoft Montreal, Ubisoft Quebec, Ubisoft Toronto, Blue Byte	
++
+Publisher:
+Ubisoft	
+Popular user-defined tags for this product:
+Medieval Action Swordplay Multiplayer PvP +
+5.4
+170 000 
+50
+
+83
+Prison Architect
+Build and Manage A Maximum Security Prison. 
+6 Oct, 2015
+Developer:
+Introversion Software	
+Publisher:
+Introversion Software	
+Popular user-defined tags for this product:
+Simulation Building Management Strategy Indie +
+9.3
+139 999 
+33
+
+84
+Cities: Skylines
+Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. 
+10 Mar, 2015
+Developer:
+Colossal Order Ltd.	
+Publisher:
+Paradox Interactive	
+Popular user-defined tags for this product:
+City Builder Simulation Building Strategy Mod +
+9.1
+
+85
+Firewatch
+Firewatch is a single-player first-person mystery set in the Wyoming wilderness, where your only emotional lifeline is the person on the other end of a handheld radio. 
+10 Feb, 2016
+Developer:
+Campo Santo	
+Publisher:
+Panic, Campo Santo	
+Popular user-defined tags for this product:
+Adventure Atmospheric Story Rich Mystery +
+8.5
+108999
+75
+
+86
+The Park
+Set in a creepy amusement park hiding a dark and sinister secret, The Park is a first-person psychological horror experience focused on exploration and storytelling
+27 Oct, 2015
+Developer:
+Funcom	
+Publisher:
+Funcom	
+Popular user-defined tags for this product:
+Horror Psychological Horror Walking Simulator +
+6.9
+108999
+0
+
+87
+Raft
+Raft throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks! 
+24 May, 2018
+Developer:
+Redbeet Interactive	
+Publisher:
+Axolot Games	
+Popular user-defined tags for this product:
+Early Access Survival Crafting Multiplayer +
+7.8
+135999
+50
+
+88
+Garry's Mod
+Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play. 
+29 Nov, 2006
+Developer:
+Facepunch Studios	
+Publisher:
+Valve	
+Popular user-defined tags for this product:
+Sandbox Multiplayer Funny Moddable Building +
+9.5
+89 999
+50
+
+89
+Stardew Valley
+You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? 
+RPG Simulation Pixel Graphics Agriculture 2D
+27 Feb, 2016
+ConcernedApe	
+ConcernedApe	
+9.6
+115 999
+25
+
+90
+Overcooked! 2
+Overcooked returns with a brand-new helping of chaotic cooking action! Journey back to the Onion Kingdom and assemble your team of chefs in classic couch co-op or online play for up to four players. Hold onto your aprons… it’s time to save the world again!
+7 Aug, 2018
+Developer:
+Ghost Town Games Ltd., Team17 Digital Ltd	
++
+Publisher:
+Team17 Digital Ltd	
+Popular user-defined tags for this product:
+Multiplayer Online Co-Op Casual Indie Action +
+8.0
+119 999
+25

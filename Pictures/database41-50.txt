@@ -1,0 +1,115 @@
+-- title, price, genre, developer, publisher, year, summary, rating, discount
+-- title, summary, genre, year, developer, publisher, rating, price, discount 
+
+-- ’
+
+41
+-=-Watch_Dogs™
+-=-In today's hyper-connected world, Chicago operates under ctOS, the most advanced computer network in America. 
+-=-pen World Hacking Action Multiplayer Epic
+-=-27 May, 2014
+-=-Ubisoft	
+-=-Ubisoft	
+-=-6.6
+-=-345 000
+-=-66
+
+42
+-=-Watch_Dogs® 2
+-=-Welcome to San Francisco. Play as Marcus, a brilliant young hacker, and join the most notorious hacker group, DedSec. Your objective: execute the biggest hack of history. 
+-=-Illuminati Hacking Open World Parkour Action +
+-=-28 Nov, 2016
+-=-Ubisoft	
+-=-Ubisoft	
+-=-7.9
+-=-689000
+-=-66
+
+43
+-=-The Crew™
+-=-The Crew is a revolutionary action-driving MMO, developed exclusively for next-gen consoles and high-end PCs that leverage new hardware capabilities to connect players online like never before. The Crew takes you and your friends on a wild ride across a massive, open-world recreation of the United States 
+-=-Racing Open World Multiplayer Driving Co-op +
+-=-2 Dec, 2014
+-=-Ivory Tower in collaboration with Ubisoft Reflections	
+-=-Ubisoft	
+-=-6.6
+-=-345000
+-=-50
+
+44
+-=-The Crew™ 2
+-=-Take on the American motorsports scene as you explore and dominate the land, air, and sea across the entire USA. With a wide variety of cars, bikes, boats, and planes, compete in a wide range of driving disciplines. 
+-=-29 Jun, 2018
+-=-Ivory Tower	
+-=-Ubisoft	
+-=-Racing Open World Driving Multiplayer Action
+-=-5.4
+-=-689000 
+-=-50
+
+45
+-=-Car Mechanic Simulator 2018
+-=-Build and expand your repair service empire in this incredibly detailed and highly realistic simulation game, where attention to car detail is astonishing. Find classic, unique cars in the new Barn Find module and Junkyard module. You can even add your self-made car in the Car Editor. 
+-=-Simulation Building Driving Realistic Racing 
+-=-28 Jul, 2017
+-=-Red Dot Games	
+-=-PlayWay S.A.
+-=-7.6
+-=-135999
+-=-25
+
+46
+-=-Tom Clancy’s The Division™
+-=-After a deadly pandemic sweeps through New York, it's up to Agents to save what remains. Complete missions, explore the Dark Zone, and fight back enemy factions alone or with 3 friends. Experience a full endgame offering you new PvP and PvE modes. 
+-=-Open World Multiplayer Third-Person Shooter +
+-=-8 Mar, 2016
+-=-Massive Entertainment	
+-=-Ubisoft	
+-=-6.7
+-=-575 000 
+-=-85
+
+47
+-=-Tom Clancy's Ghost Recon® Wildlands
+-=-Create a team with up to 3 friends in Tom Clancy’s Ghost Recon® Wildlands and enjoy the ultimate military shooter experience set in a massive, dangerous, and responsive open world. 
+-=-Open World Shooter Action Co-op Multiplayer 
+-=-7 Mar, 2017
+-=-Ubisoft Paris, Ubisoft Annecy, Ubisoft Bucharest, Ubisoft Montpellier, Ubisoft Milan, Reflections, Ubisoft Belgrade	
+-=-Ubisoft	
+-=-7.4
+-=-575 000
+-=-50
+
+48
+-=-ARK: Survival Evolved
+-=-Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape! 
+-=-Survival Open World Dinosaurs Multiplayer 
+-=-28 Aug, 2017
+-=-Studio Wildcard, Instinct Games, Efecto Studios, Virtual Basement LLC	
+-=-Studio Wildcard	
+-=-6.9
+-=-209999
+-=-33
+
+49
+-=-ARK: Survival of the Fittest
+-=-ARK: Survival of the Fittest is a Multiplayer Online Survival Arena (MOSA) game that pits as many as 72 combatants against one another in the struggle for survival in a harsh, changing environment packed with deadly creatures, “Evolution Events,” and other players. 
+-=-Free to Play Survival Dinosaurs Multiplayer 
+-=-30 Aug, 2017
+-=-Studio Wildcard, Instinct Games, Efecto Studios, Virtual Basement LLC	
+-=-Studio Wildcard	
+-=-6.3
+-=-209999
+-=-75
+
+50
+-=-Jurassic World Evolution
+-=-Place yourself at the heart of the Jurassic franchise and build your own Jurassic World. Bioengineer dinosaurs that think, feel and react intelligently to the world around them and face threats posed by espionage, breakouts and devastating tropical storms in an uncertain world where life always finds a way. 
+-=-Building Dinosaurs Management Simulation 
+-=-12 Jun, 2018
+-=-Frontier Developments	
+-=-Frontier Developments	
+-=-7.1
+-=-749 999
+-=-65
+

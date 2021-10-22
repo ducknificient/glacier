@@ -1,0 +1,143 @@
+
+CREATE TABLE IF NOT EXISTS `game` (
+  `id` varchar(19) NOT NULL DEFAULT '',
+  `title` varchar(100) NOT NULL DEFAULT '',
+  `price` double NOT NULL DEFAULT '0',
+  `genre` char(3) NOT NULL DEFAULT '',
+  `developer` varchar(100) NOT NULL DEFAULT '',
+  `publisher` varchar(50) NOT NULL DEFAULT '',
+  `year` int(11) NOT NULL DEFAULT '0',
+  `summary` longtext NOT NULL,
+  `rating` int(11) NOT NULL DEFAULT '0',
+  `discount` int(3) NOT NULL DEFAULT '0', 
+  PRIMARY KEY (`ID`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+
+-- title, price, genre, developer, publisher, year, summary, rating, discount
+-- title, summary, genre, year, developer, publisher, rating, price, discount 
+
+-- Action Hunting Co-op Open World Multiplayer 
+-- Survival Shooter Multiplayer PvP FPS 
+-- Zombies Survival Horror Gore Remake
+-- Sports Open World Multiplayer Action Racing 
+-- Open World Action Multiplayer Third Person 
+-- Multiplayer Racing Soccer Sports Competitive 
+-- Action Adventure RPG Story Rich Beat 'em up
+-- Survival Open World Horror Crafting Building
+-- FPS Multiplayer Tactical Shooter Action 
+-- Sports Basketball Simulation Multiplayer 
+
+INSERT INTO `game` (`id`, `title`, `price`, `genre`, `developer`, `publisher`, `year`, `summary`, `rating`, `discount`) VALUES
+
+01
+Monster Hunter World
+Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement. 
+Action Hunting Co-op Open World Multiplayer
+9 August 2018
+CAPCOM CO., Ltd.
+CAPCOM CO., Ltd.
+6.5
+499999
+34
+
+02
+PLAYERUNKNOWN'S BATTLEGROUNDS
+PLAYERUNKNOWN'S BATTLEGROUNDS is a battle royale shooter that pits 100 players against each other in a struggle for survival. Gather supplies and outwit your opponents to become the last person standing. 
+Survival Shooter Multiplayer PvP FPS 
+21 Dec, 2017
+PUBG Corporation
+PUBG Corporation
+4.9
+219999
+33
+
+03
+RESIDENT EVIL 2 / BIOHAZARD RE:2
+A deadly virus engulfs the residents of Raccoon City in September of 1998, plunging the city into chaos as flesh eating zombies roam the streets for survivors. An unparalleled adrenaline rush, gripping storyline, and unimaginable horrors await you. Witness the return of Resident Evil 2. 
+Zombies Survival Horror Gore Remake
+25 Jan, 2019
+CAPCOM Co., Ltd.
+CAPCOM Co., Ltd.
+0
+499999
+0
+
+04
+Steep™
+Ride a massive open world across the Alps, where the powder is always fresh and the run never ends. Defy and master the mountain alone or with friends on skis, wingsuits, snowboards and paragliders. Record and share your best stunts. 
+Sports Open World Multiplayer Action Racing +
+2 Dec, 2016
+Ubisoft Annecy, Ubisoft Montpellier, Ubisoft Kiev	
+Ubisoft
+7.4
+459000
+60
+
+05
+Grand Theft Auto V
+Los Santos is a city of bright lights, long nights and dirty secrets, and they don’t come brighter, longer or dirtier than in GTA Online: After Hours. The party starts now. 
+Open World Action Multiplayer Third Person
+4 Apr, 2015
+Rockstar North	
+Rockstar Games	
+6.9
+290000
+50
+
+06
+Rocket League®
+Soccer meets driving once again in the long-awaited, physics-based multiplayer-focused sequel to Supersonic Acrobatic Rocket-Powered Battle-Cars! Choose a variety of high-flying vehicles equipped with huge rocket boosters to score amazing aerial goals and pull-off incredible game-changing saves! 
+Multiplayer Racing Soccer Sports Competitive +
+7 Jul, 2018
+Psyonix, Inc.	
+Psyonix, Inc.	
+9.2
+135999
+50
+
+07
+Yakuza Kiwami
+SEGA’s critically-acclaimed entry that started a legend. Become Kazuma Kiryu, an up-and-coming yakuza who takes the fall for the murder of a crime boss, only to emerge from prison ten years later to a changed world. Remastered from the ground up, now in 4K and uncapped framerates on PC. 
+Action Adventure RPG Story Rich Beat 'em up
+19 Feb, 2019
+SEGA	
+SEGA	
+0
+260000
+10
+
+08
+The Forest
+As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator. 
+Survival Open World Horror Crafting Building
+30 Apr, 2018
+Endnight Games Ltd	
+Endnight Games Ltd	
+9.2
+108999
+0
+
+09
+Tom Clancy's Rainbow Six® Siege
+Tom Clancy's Rainbow Six Siege is the latest installment of the acclaimed first-person shooter franchise developed by the renowned Ubisoft Montreal studio. 
+FPS Multiplayer Tactical Shooter Action +
+2 Dec, 2015
+Ubisoft Montreal	
+Ubisoft	
+8.0
+170000
+0
+
+10
+NBA 2K19
+NBA 2K celebrates 20 years of redefining what sports gaming can be. NBA 2K19 continues to push limits as it brings gaming one step closer to real-life basketball excitement and culture.
+Sports Basketball Simulation Multiplayer 
+10 Sep, 2018
+Visual Concepts	
+2K	
+28
+620000
+0
+
+
